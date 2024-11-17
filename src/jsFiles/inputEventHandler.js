@@ -1,7 +1,5 @@
 import { searchInput } from '../index.js';
 import Notiflix from 'notiflix';
-import { fetchCountries } from './fetchCountries.js';
-import { clearDisplay } from './displayCountry.js';
 
 let searchName = '';
 
